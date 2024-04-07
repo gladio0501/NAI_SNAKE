@@ -1,4 +1,4 @@
-# NAI_SNAKE
+# PPY_SNAKE
 Welcome to our Snake Game project repository! This document provides a brief overview of the project.
 
 ## DESCRIPTION
